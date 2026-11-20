@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the PRISM paper below."
-title: "PRISM: Proxy Replay with Invariant Sparse Masking for Domain-incremental Continual Segmentation"
+title: "PRISM: Proxy Replay with Invariant Sparse Masking for Domain-Incremental Continual Segmentation"
 type: software
 authors:
   - family-names: Joham
@@ -28,7 +28,7 @@ keywords:
   - nnU-Net
 preferred-citation:
   type: article
-  title: "PRISM: Proxy Replay with Invariant Sparse Masking for Domain-incremental Continual Segmentation"
+  title: "PRISM: Proxy Replay with Invariant Sparse Masking for Domain-Incremental Continual Segmentation"
   # Accepted for publication; year, volume and DOI will be added once published.
   status: in-press
   authors:

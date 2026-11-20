@@ -1,11 +1,11 @@
-# PRISM: Proxy Replay with Invariant Sparse Masking for Domain-incremental Continual Segmentation
+# PRISM: Proxy Replay with Invariant Sparse Masking for Domain-Incremental Continual Segmentation
 
 ![PRISM overview](figures/PRISM_overview.png)
 
 Code for the paper:
 
 > S. J. Joham, M. Kozinski, A. Hadzic, F. Thaler, M. Urschler.
-> *PRISM: Proxy Replay with Invariant Sparse Masking for Domain-incremental
+> *PRISM: Proxy Replay with Invariant Sparse Masking for Domain-Incremental
 > Continual Segmentation.* Medical Image Analysis.
 
 A U-Net (nnU-Net, 2D) is trained on a sequence of domains (sites, scanners,
@@ -273,7 +273,7 @@ paper are not included and have their own terms.
 ```bibtex
 @article{joham2026prism,
   title   = {{PRISM}: Proxy Replay with Invariant Sparse Masking for
-             Domain-incremental Continual Segmentation},
+             Domain-Incremental Continual Segmentation},
   author  = {Joham, Simon Johannes and Kozinski, Mateusz and Hadzic, Arnela and
              Thaler, Franz and Urschler, Martin},
   journal = {Medical Image Analysis},
